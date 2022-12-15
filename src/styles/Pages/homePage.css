@@ -1,0 +1,33 @@
+.home-course-title {
+  font-size: 60px;
+  position: relative;
+  top: 0cm;
+  left: 700px;
+  display: inline;
+}
+.hello-user {
+  font-size: 30px;
+  position: relative;
+  top: 0cm; 
+  right: 203px;
+  display: inline-block;
+}
+
+.drop-down {
+  width: 100%;
+  text-align: center;
+  display: inline;
+  position: relative;
+  top: 20px;
+  right: 20px;
+}
+
+.gap{
+  height: 50px;
+}
+
+.course-comonent-possition{
+  position: relative;
+  left: 280px;
+  width: 1000px;
+}
